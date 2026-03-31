@@ -76,7 +76,7 @@ This project aims to analyze customer behavior, identify key churn drivers, and 
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard]([https://github.com/martinnmj-77/saas-customer-churn-analysis/blob/main/dashboard.png])
+[Dashboard]([https://github.com/martinnmj-77/saas-customer-churn-analysis/blob/main/dashboard.png])
 
 ---
 
